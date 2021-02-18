@@ -1,4 +1,0 @@
-appId: com.neil.ElectronAutoUpdate
-publish: 
-  provider: github
-  token: 59d3ffbf175fc9fd4da3712b5b831fffca880e88
