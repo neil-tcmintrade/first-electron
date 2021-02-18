@@ -1,4 +1,4 @@
-appId: com.neil.firstElectron
+appId: com.neil.ElectronAutoUpdate
 publish: 
   provider: github
-  token: 4fcaee4cca5b1b4ad12ceeac09b14b3b5a2d8aab
+  token: c0f405c5660ef3198500245528071c5ad3717e9b
