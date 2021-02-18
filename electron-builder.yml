@@ -1,0 +1,4 @@
+appId: com.neil.firstElectron
+publish: 
+  provider: github
+  token: 4fcaee4cca5b1b4ad12ceeac09b14b3b5a2d8aab
